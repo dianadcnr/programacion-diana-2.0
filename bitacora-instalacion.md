@@ -15,9 +15,31 @@
 
 - **Estado:** Instalado y funcionando.
 - **Versión:** 1.147.0
-- **Sistema:** Windows x64
+- **Sistema operativo:** Windows 64 bits.
 - **Comprobación:** Ayuda → Acerca de.
-- **Extensiones:** Se instalaron las extensiones requeridas para Angular, .NET, SQL Server, Docker y desarrollo diario.
+- **Extensiones:** Instaladas y verificadas.
+
+### Extensiones instaladas
+
+**Angular**
+- Angular Language Service - Angular
+- Pretty TypeScript Errors - yoavbls
+
+**.NET y SQL Server**
+- C# Dev Kit - Microsoft
+- SQL Server (mssql) - Microsoft
+
+**Docker**
+- Docker - Microsoft
+
+**Herramientas adicionales**
+- Prettier - Code formatter - Prettier
+- Peacock - John Papa
+- Material Icon Theme - Philipp Kief
+- Dracula Official - Dracula Theme
+
+- **Total:** 9 extensiones instaladas.
+- **Comprobación:** Ayuda → Acerca de y panel de Extensiones.
 
 ## 4. Node.js
 - **Estado:** Instalado y funcionando.
