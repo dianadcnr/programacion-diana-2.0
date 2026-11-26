@@ -12,8 +12,12 @@
 - **Linux Journey:** Cuenta creada.
 
 ## 3. Visual Studio Code
-- **Estado:** Instalado.
-- **Pendiente:** Verificar las extensiones necesarias.
+
+- **Estado:** Instalado y funcionando.
+- **Versión:** 1.147.0
+- **Sistema:** Windows x64
+- **Comprobación:** Ayuda → Acerca de.
+- **Extensiones:** Se instalaron las extensiones requeridas para Angular, .NET, SQL Server, Docker y desarrollo diario.
 
 ## 4. Node.js
 - **Estado:** Instalado y funcionando.
